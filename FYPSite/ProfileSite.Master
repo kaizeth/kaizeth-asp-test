@@ -1,0 +1,82 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="ProfileSite.master.cs" Inherits="FYPSite.ProfileSite1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Play.css" rel="stylesheet" type="text/css" />
+    <link href="master.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript">
+        function DoNav(theUrl) {
+            document.location.href = theUrl;
+        }
+
+        function ChangeColor(tableRow, highLight) {
+            if (highLight) {
+                tableRow.style.backgroundColor = '#58D3F7';
+            }
+            else {
+                tableRow.style.backgroundColor = '#F2F2F2';
+            }
+        }
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="wrapper">
+        <div class="banner">
+        </div>
+        <div class="function1">
+            <a href="RecentNews.aspx">
+                <div class="func1button">
+                    News
+                </div>
+            </a>
+            <a href="NewestLevel.aspx">
+                <div class="func1button">
+                    Levels
+                </div>
+            </a>
+            <a href="RankingOverall.aspx">
+                <div class="func1button">
+                    Ranking
+                </div>
+            </a>
+            <a href="ProfileView.aspx">
+                <div class="func1button" style="background-color: #C0C0C0">
+                    Profile
+                </div>
+            </a>
+        </div>
+        <div class="function2">
+            <a href="ProfileView.aspx">
+                <div class="func2button">
+                    View/Edit
+                </div>
+            </a>
+            <a href="ProfileSearch.aspx">
+                <div class="func2button">
+                    Search Profile
+                </div>
+            </a>
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    
+        <div id="site-bottom-bar" class="fixed-position">
+            <div id="site-bottom-bar-frame">
+                <div id="site-bottom-bar-content">
+                    <form id="form2">
+                    <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+                    <asp:LinkButton ID="LinkButton1" runat="server" onclick="LinkButton1_Click">Logout</asp:LinkButton>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,25 @@
+F:\Soniczx Documents\Visual Studio 2010\Projects\FYPSite\FYPSite\bin\FYPSite.dll
+F:\Soniczx Documents\Visual Studio 2010\Projects\FYPSite\FYPSite\bin\FYPSite.pdb
+F:\Soniczx Documents\Visual Studio 2010\Projects\FYPSite\FYPSite\obj\Debug\ResolveAssemblyReference.cache
+F:\Soniczx Documents\Visual Studio 2010\Projects\FYPSite\FYPSite\obj\Debug\FYPSite.dll
+F:\Soniczx Documents\Visual Studio 2010\Projects\FYPSite\FYPSite\obj\Debug\FYPSite.pdb
+C:\Users\TP016790\Desktop\FYP SITe\FYPSite\FYPSite\bin\FYPSite.dll
+C:\Users\TP016790\Desktop\FYP SITe\FYPSite\FYPSite\bin\FYPSite.pdb
+C:\Users\TP016790\Desktop\FYP SITe\FYPSite\FYPSite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TP016790\Desktop\FYP SITe\FYPSite\FYPSite\obj\Debug\FYPSite.dll
+C:\Users\TP016790\Desktop\FYP SITe\FYPSite\FYPSite\obj\Debug\FYPSite.pdb
+C:\Users\Soniczx\Desktop\Everything\Assignment\FYPSite\FYPSite\bin\FYPSite.dll
+C:\Users\Soniczx\Desktop\Everything\Assignment\FYPSite\FYPSite\bin\FYPSite.pdb
+C:\Users\Soniczx\Desktop\Everything\Assignment\FYPSite\FYPSite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Soniczx\Desktop\Everything\Assignment\FYPSite\FYPSite\obj\Debug\FYPSite.dll
+C:\Users\Soniczx\Desktop\Everything\Assignment\FYPSite\FYPSite\obj\Debug\FYPSite.pdb
+G:\FYP SITe\FYPSite (Latest)\FYPSite\bin\FYPSite.dll
+G:\FYP SITe\FYPSite (Latest)\FYPSite\bin\FYPSite.pdb
+G:\FYP SITe\FYPSite (Latest)\FYPSite\obj\Debug\ResolveAssemblyReference.cache
+G:\FYP SITe\FYPSite (Latest)\FYPSite\obj\Debug\FYPSite.dll
+G:\FYP SITe\FYPSite (Latest)\FYPSite\obj\Debug\FYPSite.pdb
+C:\Users\Soniczx\Desktop\Everything\Assignment\FYPSite (100% Core 25% Enhanced)\FYPSite\bin\FYPSite.dll
+C:\Users\Soniczx\Desktop\Everything\Assignment\FYPSite (100% Core 25% Enhanced)\FYPSite\bin\FYPSite.pdb
+C:\Users\Soniczx\Desktop\Everything\Assignment\FYPSite (100% Core 25% Enhanced)\FYPSite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Soniczx\Desktop\Everything\Assignment\FYPSite (100% Core 25% Enhanced)\FYPSite\obj\Debug\FYPSite.dll
+C:\Users\Soniczx\Desktop\Everything\Assignment\FYPSite (100% Core 25% Enhanced)\FYPSite\obj\Debug\FYPSite.pdb
