@@ -1,0 +1,5 @@
+F:\Soniczx Documents\Visual Studio 2010\Projects\AppHarborTesting\AppHarborTesting\bin\AppHarborTesting.dll
+F:\Soniczx Documents\Visual Studio 2010\Projects\AppHarborTesting\AppHarborTesting\bin\AppHarborTesting.pdb
+F:\Soniczx Documents\Visual Studio 2010\Projects\AppHarborTesting\AppHarborTesting\obj\Debug\ResolveAssemblyReference.cache
+F:\Soniczx Documents\Visual Studio 2010\Projects\AppHarborTesting\AppHarborTesting\obj\Debug\AppHarborTesting.dll
+F:\Soniczx Documents\Visual Studio 2010\Projects\AppHarborTesting\AppHarborTesting\obj\Debug\AppHarborTesting.pdb
